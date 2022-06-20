@@ -1,24 +1,5 @@
-# README
+『アプリケーションを完成させよう』の課題提出
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+コメントが見づらくなってます。すみません。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Finishのコメントを間違えて２−１２でpushしてしまいました、正しくは３−１２です。
